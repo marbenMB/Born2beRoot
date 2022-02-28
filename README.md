@@ -1,9 +1,8 @@
 # Born2beRoot
+February 28, 2022
 This project consists of having you set up your first server by following specific rules.
-
-# Bonr2BeRoot
-
-January 27, 2022
+---
+#🔴 Pairing this README with research will give you another level of knowledge and experience. 🔴
 
 ### Installation of virtual machine (with virtualbox):
 
