@@ -2,10 +2,9 @@
 ---
 February 28, 2022.
 ## 🔴 Pairing this README with research will give you another level of knowledge and experience. 🔴
+---
 author : Marouane Benbajja - MAR BEN.
----
-This project consists of having you set up your first server by following specific rules.
----
+## This project consists of having you set up your first server by following specific rules.
 
 ### Installation of virtual machine (with virtualbox):
 
