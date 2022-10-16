@@ -9,6 +9,7 @@ author : Marouane Benbajja - MAR BEN.
 ### Installation of virtual machine (with virtualbox):
 
 - Video of installation : [see](https://www.youtube.com/watch?v=2w-2MX5QrQw)
+- Usefull Playlist : [see](https://youtube.com/playlist?list=PLAoA-usw1t-4sIlwNXKS2RIn0ZBx4VQhn)
 
 ### **What virtualization means ?**
 
